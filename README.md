@@ -1,5 +1,7 @@
 # RSS
 
+[![GoDoc](https://godoc.org/github.com/jteeuwen/go-pkg-rss?status.svg)](https://godoc.org/github.com/jteeuwen/go-pkg-rss)
+
 This package allows us to fetch Rss and Atom feeds from the internet.
 They are parsed into an object tree which is a hybrid of both the RSS and Atom
 standards.
